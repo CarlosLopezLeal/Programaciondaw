@@ -1,0 +1,16 @@
+
+caracter = 
+
+
+if caracter == 'a':
+    print("Es la primera vocal (A).")
+elif caracter == 'e':
+    print("Es la segunda vocal (E).")
+elif caracter == 'i':
+    print("Es la tercera vocal (I).")
+elif caracter == 'o':
+    print("Es la cuarta vocal (O).")
+elif caracter == 'u':
+    print("Es la quinta vocal (U).")
+else:
+    print("No es una vocal.")
